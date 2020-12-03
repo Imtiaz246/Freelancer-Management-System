@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/arrow-down-sign-to-navigate.png</file>
+        <file>imgs/bkash_2.png</file>
+        <file>imgs/briefing.png</file>
+        <file>imgs/busy.png</file>
+        <file>imgs/checked - Copy.png</file>
+        <file>imgs/checked.png</file>
+        <file>imgs/clock.png</file>
+        <file>imgs/contract.png</file>
+        <file>imgs/dep.png</file>
+        <file>imgs/department (1).png</file>
+        <file>imgs/departmentIcon.png</file>
+        <file>imgs/designation.png</file>
+        <file>imgs/dollar-symbol.png</file>
+        <file>imgs/dutch-bangla-rocket-logo-B4D1CC458D-seeklogo.com.png</file>
+        <file>imgs/employees.png</file>
+        <file>imgs/envelope.png</file>
+        <file>imgs/frame.png</file>
+        <file>imgs/frame_2.png</file>
+        <file>imgs/frame_3.png</file>
+        <file>imgs/frame_4.png</file>
+        <file>imgs/frame_5.png</file>
+        <file>imgs/iconPic.png</file>
+        <file>imgs/icons8-back-arrow-26.png</file>
+        <file>imgs/icons8-back-arrow-64.png</file>
+        <file>imgs/icons8-cancel-64.png</file>
+        <file>imgs/icons8-eye-90.png</file>
+        <file>imgs/icons8-help-48.png</file>
+        <file>imgs/icons8-hide-90.png</file>
+        <file>imgs/icons8-paycheque-48.png</file>
+        <file>imgs/paypal-logo-481A2E654B-seeklogo.com.png</file>
+        <file>imgs/pending.png</file>
+        <file>imgs/project.png</file>
+        <file>imgs/project-management.png</file>
+        <file>imgs/purse.png</file>
+        <file>imgs/schedule.png</file>
+        <file>imgs/send.png</file>
+        <file>imgs/send_active.png</file>
+        <file>imgs/stopwatch.png</file>
+        <file>imgs/tick.png</file>
+        <file>imgs/Untitled.png</file>
+        <file>imgs/wallet.png</file>
+        <file>imgs/Dutch.png</file>
+        <file>imgs/left-chevron.png</file>
+        <file>imgs/right-chevron.png</file>
+    </qresource>
+</RCC>
